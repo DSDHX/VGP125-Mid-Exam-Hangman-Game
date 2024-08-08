@@ -8,6 +8,10 @@ The first part of the game starts with the display of a welcome screen. The play
 
 Selecting option one will bring you to the game where players must guess a specific word. Each player has 5 attempts to guess the word and will lose one attempt for each wrong letter. If the player runs out of 5 attempts without guessing the word, a message will be displayed that says “You Lose”, showing the correct word and offering an option to return to the main menu of the game. 
 
+In section two, the player must enter a word that will be added to the game´s list. Upon doing so, a message will confirm that the word has been successfully added. 
+
+In section three, the player can view the list of added words and has the option to remove any word by simply entering the number corresponding to that word. Massages will be displayed to inform the player if the word has been removed from the game. 
+
 The code involves basic C#. The core part is that a new string is created by a ***new string('_', selectedWord.Length)***.  The string contains ***selectedWord.Length*** underscores. Then, use the ***ToCharArray()*** method to convert it into an array of characters. When the player guesses the letter correctly. The underscores will turn into the correct letter.
 
 # Credit
