@@ -11,7 +11,7 @@
         Console.WriteLine("██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ");
         Console.WriteLine("╚███╔███╔╝███████╗╚██████╗███████╗╚██████╔╝██║ ╚═╝ ██║███████╗");
         Console.WriteLine(" ╚══╝╚══╝ ╚══════╝ ╚═════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝");
-        Console.WriteLine("==============================================================");
+        Console.WriteLine("==========================================================TM==");
         Console.WriteLine("                 Welcome to Hangman Game!");
         Console.WriteLine("\n                 Press any key to continue");
         Console.ReadKey(); // Allow player to reade message
